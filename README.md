@@ -7,9 +7,9 @@ This program utilizes Google's Geolocation API and the Yelp Fusion API to provid
 ### Dependencies
 - `Python3`
 - `Geolocation API key`
-  - To access a key, you will first have to set up a Google Cloud project. Once that's complete, you can create and secure your API key. Instructions for the necessary steps can be found [here] (https://developers.google.com/maps/documentation/elevation/cloud-setup).
+  - To access a key, you will first have to set up a Google Cloud project. Once that's complete, you can create and secure your API key. Instructions for the necessary steps can be found [here](https://developers.google.com/maps/documentation/elevation/cloud-setup).
 - `Yelp Fusion API key`
-  - To access a key, you need to create an app with Yelp. Once you submit your new app form, you will receive an API key. Instructions for the necessary steps can be found [here] (https://docs.developer.yelp.com/docs/fusion-authentication).
+  - To access a key, you need to create an app with Yelp. Once you submit your new app form, you will receive an API key. Instructions for the necessary steps can be found [here](https://docs.developer.yelp.com/docs/fusion-authentication).
 - `Google Chrome`
   - Google Chrome is set as the default web browser for this program. Users should set Google Chrome as their default web browser in order to view the html files. Otherwise, the code can be adjusted to set a different browser as the default for this program. 
 
