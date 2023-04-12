@@ -20,6 +20,6 @@ Prior to running the program, you will need to run the following installations:
 - `pip install jinja2`
 
 ## Running the program
-- First, you will need to download the `main.py` and `functions.py` files and store them in the same folder. Next, run any of the necessary pip installs. 
+- First, you will need to download and store the `main.py` file. Next, run any of the necessary pip installs. 
 - From there, the program will be run on the command line. The user will be asked a set of questions related to restaurant preferences. Once those questions are answered, the program will develop a set of recommendations. Users will be asked several prompts related to learning about the recommendations. If the user chooses to view the recommendations, an html file will open in their web browser. Once the web browser is opened, the user should return to the command line for further prompts or to start a new search. 
 
