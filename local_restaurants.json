@@ -1,0 +1,2210 @@
+[
+  {
+    "id": "Xmy4W4wqFlwHRTNp9HbHXQ",
+    "alias": "riverview-cafe-restaurant-dexter",
+    "name": "Riverview Cafe Restaurant",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dzM6ZJwQOzb08zvSt9t9XA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/riverview-cafe-restaurant-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 80,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "diners",
+        "title": "Diners"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.33875,
+      "longitude": -83.88939
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "8124 Main St",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8124 Main St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17343886028",
+    "display_phone": "(734) 388-6028",
+    "distance": 805.1126703761402
+  },
+  {
+    "id": "T2v2mDckE4pC6g5wLBPr5g",
+    "alias": "fillmore-bar-and-grill-dexter",
+    "name": "Fillmore Bar & Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ao97vtS6D2pJ-jef2KsjZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fillmore-bar-and-grill-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 61,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "beerbar",
+        "title": "Beer Bar"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.3372067909158,
+      "longitude": -83.8864495640389
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "location": {
+      "address1": "7954 Ann Arbor St",
+      "address2": "",
+      "address3": null,
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "7954 Ann Arbor St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344263727",
+    "display_phone": "(734) 426-3727",
+    "distance": 1078.4189912230574
+  },
+  {
+    "id": "jej8MeofBcbY1Iwr7dX4Sg",
+    "alias": "dexters-pub-dexter-2",
+    "name": "Dexter's Pub",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lqHHkKpN3U2q4BIlIvGMXw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dexters-pub-dexter-2?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 106,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.33875,
+      "longitude": -83.8891
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "8114 Main St",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8114 Main St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344261234",
+    "display_phone": "(734) 426-1234",
+    "distance": 830.9202889947884
+  },
+  {
+    "id": "a-mgI_xrcFdmUyjeF0mS2Q",
+    "alias": "jolly-pumpkin-artisan-ales-kitchen-dexter-2",
+    "name": "Jolly Pumpkin Artisan Ales + Kitchen",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xyRDmsHgGZthjtNqtfcZuA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jolly-pumpkin-artisan-ales-kitchen-dexter-2?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 32,
+    "categories": [
+      {
+        "alias": "breweries",
+        "title": "Breweries"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.323712,
+      "longitude": -83.8783621
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "2319 Bishop Cr E",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2319 Bishop Cr E",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17347929124",
+    "display_phone": "(734) 792-9124",
+    "distance": 2454.6324385162347
+  },
+  {
+    "id": "-oGQMNtcVG7azG-mOdRa2g",
+    "alias": "hotel-hickman-chuck-wagon-bbq-dexter",
+    "name": "Hotel Hickman Chuck Wagon BBQ",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m2pfXiHqgAGOAkhB51bYuQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hotel-hickman-chuck-wagon-bbq-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 75,
+    "categories": [
+      {
+        "alias": "bbq",
+        "title": "Barbeque"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.338222,
+      "longitude": -83.887786
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "8050 Main St",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8050 Main St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17346466261",
+    "display_phone": "(734) 646-6261",
+    "distance": 945.0699661459709
+  },
+  {
+    "id": "hZwum9mA8fkkW6PsiQBSjw",
+    "alias": "wings-n-things-dexter",
+    "name": "Wings N Things",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ehpy2dfaOANZyxTEir8zKw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wings-n-things-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 24,
+    "categories": [
+      {
+        "alias": "chicken_wings",
+        "title": "Chicken Wings"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.3384431,
+      "longitude": -83.8882654
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "3220 Broad St",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3220 Broad St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344267754",
+    "display_phone": "(734) 426-7754",
+    "distance": 905.8274110364471
+  },
+  {
+    "id": "nwGXEk-y7wLBHPg-F8WlCg",
+    "alias": "chelas-dexter",
+    "name": "Chela's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RevMn8RPtSRF_jLcPrSNjA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/chelas-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 83,
+    "categories": [
+      {
+        "alias": "mexican",
+        "title": "Mexican"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.3253890002484,
+      "longitude": -83.8715989003583
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "7065 Dexter Ann Arbor Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "7065 Dexter Ann Arbor Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17345802149",
+    "display_phone": "(734) 580-2149",
+    "distance": 2759.7566151039555
+  },
+  {
+    "id": "F0ke2er7NfxLgSSJuadfEg",
+    "alias": "aubrees-pizzeria-and-grill-dexter",
+    "name": "Aubree's Pizzeria & Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7qOXVhttGv4fksdHka4sug/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/aubrees-pizzeria-and-grill-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 105,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.0,
+    "coordinates": {
+      "latitude": 42.33733,
+      "longitude": -83.88803
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "8031 Main St",
+      "address2": "Ste 101",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8031 Main St",
+        "Ste 101",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344241400",
+    "display_phone": "(734) 424-1400",
+    "distance": 951.5045300236422
+  },
+  {
+    "id": "TNFA_E-1EILdSzUtU2l1jA",
+    "alias": "sushi-time-dexter-3",
+    "name": "Sushi Time",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-sSdCHNVTE8CB-NigM8qEA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sushi-time-dexter-3?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 91,
+    "categories": [
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      },
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.32664,
+      "longitude": -83.86931
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "7050 Dexter Ann Arbor Rd",
+      "address2": "Ste 100",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "7050 Dexter Ann Arbor Rd",
+        "Ste 100",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17342532581",
+    "display_phone": "(734) 253-2581",
+    "distance": 2841.435327022103
+  },
+  {
+    "id": "TnwGGzvxcjRjgxnc0zcwKg",
+    "alias": "fresh-forage-ann-arbor",
+    "name": "Fresh Forage",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yDrhLO5sSGuz8YFTqIbkFw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fresh-forage-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 174,
+    "categories": [
+      {
+        "alias": "newamerican",
+        "title": "American (New)"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.28797,
+      "longitude": -83.8283
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "5060 Jackson Rd",
+      "address2": "Ste A",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "5060 Jackson Rd",
+        "Ste A",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17348876655",
+    "display_phone": "(734) 887-6655",
+    "distance": 8174.259435699139
+  },
+  {
+    "id": "fx1Aw4jIy8kGxbzJssQcog",
+    "alias": "joe-and-rosies-coffee-and-tea-dexter-2",
+    "name": "Joe and Rosie's Coffee & Tea",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZTzgyIhs1GGPoznLqk8avQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/joe-and-rosies-coffee-and-tea-dexter-2?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 58,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.3382462,
+      "longitude": -83.8884287
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "8074 Main St",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8074 Main St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17342532344",
+    "display_phone": "(734) 253-2344",
+    "distance": 900.5770306041752
+  },
+  {
+    "id": "veh7CxFHu81OLvWgjlDFig",
+    "alias": "a-and-w-restaurant-dexter",
+    "name": "A&W Restaurant",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PTXvLCN6eHam9R63OBVHPQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/a-and-w-restaurant-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 54,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "hotdog",
+        "title": "Hot Dogs"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.33914,
+      "longitude": -83.89225
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "8220 Dexter-Chelsea Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8220 Dexter-Chelsea Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344264427",
+    "display_phone": "(734) 426-4427",
+    "distance": 558.7391586967024
+  },
+  {
+    "id": "KwyGIDuxq2KA3dr4NloMMQ",
+    "alias": "stivers-restaurant-chelsea",
+    "name": "Stivers Restaurant",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3RCWr3fet92S5E3yql2rmQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/stivers-restaurant-chelsea?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 40,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      },
+      {
+        "alias": "divebars",
+        "title": "Dive Bars"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.29639,
+      "longitude": -83.97503
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "11 S Fletcher Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Chelsea",
+      "zip_code": "48118",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "11 S Fletcher Rd",
+        "Chelsea, MI 48118"
+      ]
+    },
+    "phone": "+17344753610",
+    "display_phone": "(734) 475-3610",
+    "distance": 7864.599171529279
+  },
+  {
+    "id": "POx95qk2B81CgXE15Mm58A",
+    "alias": "metzgers-german-restaurant-ann-arbor-4",
+    "name": "Metzger's German Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nG7cODeuFY81NNpabU4nnQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/metzgers-german-restaurant-ann-arbor-4?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 310,
+    "categories": [
+      {
+        "alias": "german",
+        "title": "German"
+      },
+      {
+        "alias": "newamerican",
+        "title": "American (New)"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.293025,
+      "longitude": -83.839377
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "305 N Zeeb Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "305 N Zeeb Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17346688987",
+    "display_phone": "(734) 668-8987",
+    "distance": 7136.3487946268615
+  },
+  {
+    "id": "vRs8JXt_MKDRtb3D_IPshg",
+    "alias": "food-zone-chinese-restaurant-dexter",
+    "name": "Food Zone Chinese Restaurant",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qtzTS8bLwanyDfuxYzHbng/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/food-zone-chinese-restaurant-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 45,
+    "categories": [
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.3262825,
+      "longitude": -83.8703232
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "7023 Dexter Ann Arbor Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "7023 Dexter Ann Arbor Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344263410",
+    "display_phone": "(734) 426-3410",
+    "distance": 2769.058312299966
+  },
+  {
+    "id": "a8AA4ojAvOB4uS1odQG62w",
+    "alias": "carlyle-grill-ann-arbor",
+    "name": "Carlyle Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U-_UoTppYTdpOLD3Of5cdQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/carlyle-grill-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 277,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.28571,
+      "longitude": -83.80342
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3660 Jackson Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3660 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17342139800",
+    "display_phone": "(734) 213-9800",
+    "distance": 9874.270592977124
+  },
+  {
+    "id": "l0yGTVOOSsKIU3GFJ0CBGA",
+    "alias": "moon-sky-s-cheesesteaks-ann-arbor",
+    "name": "Moon-Sky’s Cheesesteaks",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9s6RCI7owuoXjwohk-wGUQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/moon-sky-s-cheesesteaks-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "foodtrucks",
+        "title": "Food Trucks"
+      },
+      {
+        "alias": "cheesesteaks",
+        "title": "Cheesesteaks"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.2773751,
+      "longitude": -83.80072249999999
+    },
+    "transactions": [],
+    "location": {
+      "address1": "600 S Wagner Rd",
+      "address2": null,
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "600 S Wagner Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 10645.708045523255
+  },
+  {
+    "id": "8TEpe-qJKYyZPT7mgWsv4Q",
+    "alias": "classic-pizza-dexter",
+    "name": "Classic Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rxuz_QB0U72wJTmDbzfVvA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/classic-pizza-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 33,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.340271,
+      "longitude": -83.8809509
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "8015 Huron St",
+      "address2": "Ste A",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8015 Huron St",
+        "Ste A",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344261900",
+    "display_phone": "(734) 426-1900",
+    "distance": 1504.4394781777423
+  },
+  {
+    "id": "J0pAPt_1ThoQShtqMEqwmQ",
+    "alias": "moes-grill-and-more-ann-arbor",
+    "name": "Moe's grill and more",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RGhNvJ76e8nDvetZzmEmLA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/moes-grill-and-more-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "mexican",
+        "title": "Mexican"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.288619,
+      "longitude": -83.843705
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "25 Jackson Industrial Dr",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "25 Jackson Industrial Dr",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17347807388",
+    "display_phone": "(734) 780-7388",
+    "distance": 7270.329042723366
+  },
+  {
+    "id": "csjoL_wptvaxjhm_hGGIrw",
+    "alias": "homes-campus-ann-arbor",
+    "name": "HOMES Campus",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1HzXBm2uKPzbCi-TIsnuig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/homes-campus-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "galleries",
+        "title": "Art Galleries"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.28299,
+      "longitude": -83.80308
+    },
+    "transactions": [],
+    "location": {
+      "address1": "112 Jackson Plz",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "112 Jackson Plz",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349295212",
+    "display_phone": "(734) 929-5212",
+    "distance": 10102.401975243543
+  },
+  {
+    "id": "dZHQzHA-v6qL3TN_2M4HUQ",
+    "alias": "grand-traverse-pie-company-ann-arbor",
+    "name": "Grand Traverse Pie Company",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kZlv95zh-kYJujdYJDOxEA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/grand-traverse-pie-company-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 105,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      },
+      {
+        "alias": "soup",
+        "title": "Soup"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.2928048,
+      "longitude": -83.8388149
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "291 N Zeeb Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "291 N Zeeb Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349979702",
+    "display_phone": "(734) 997-9702",
+    "distance": 7179.879284067818
+  },
+  {
+    "id": "KRJcVL3sa-37XiddZauNRQ",
+    "alias": "session-room-ann-arbor",
+    "name": "Session Room",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0WmLhpmMEYm3xwuzApek_g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/session-room-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 164,
+    "categories": [
+      {
+        "alias": "beerbar",
+        "title": "Beer Bar"
+      },
+      {
+        "alias": "beergardens",
+        "title": "Beer Gardens"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.28432,
+      "longitude": -83.803674
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3685 Jackson Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3685 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17345857300",
+    "display_phone": "(734) 585-7300",
+    "distance": 9959.35511087822
+  },
+  {
+    "id": "4cKsyUVuDOP6JddYqJZNFw",
+    "alias": "portage-yacht-club-pinckney",
+    "name": "Portage Yacht Club",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x9s1AwIgtJZklBkdsxGM2A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/portage-yacht-club-pinckney?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "boating",
+        "title": "Boating"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.4143159,
+      "longitude": -83.9180752
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "8930 Dexter Pinckney Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Pinckney",
+      "zip_code": "48169",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8930 Dexter Pinckney Rd",
+        "Pinckney, MI 48169"
+      ]
+    },
+    "phone": "+17344264155",
+    "display_phone": "(734) 426-4155",
+    "distance": 8458.994523549298
+  },
+  {
+    "id": "x2ORL02YfQ61LvtH6HKWBA",
+    "alias": "mugg-and-bopps-dexter",
+    "name": "Mugg & Bopps",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hoN8gNeRecen1PBS8TcKtQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mugg-and-bopps-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "convenience",
+        "title": "Convenience Stores"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "carwash",
+        "title": "Car Wash"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.3330154418945,
+      "longitude": -83.8869171142578
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "2940 Baker Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2940 Baker Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344264075",
+    "display_phone": "(734) 426-4075",
+    "distance": 1241.4545735903157
+  },
+  {
+    "id": "4ZPfd3oTjrlA7iNsa0WMZw",
+    "alias": "alpha-koney-island-ann-arbor-2",
+    "name": "Alpha Koney Island",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3iSZOCIj8NNAWo2qgye-IA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/alpha-koney-island-ann-arbor-2?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 19,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      },
+      {
+        "alias": "greek",
+        "title": "Greek"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.285290461332345,
+      "longitude": -83.8164467733146
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "4389 Jackson Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "4389 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17347807102",
+    "display_phone": "(734) 780-7102",
+    "distance": 9092.087329795162
+  },
+  {
+    "id": "S6nBuUv2BZ5utr8II-FH1w",
+    "alias": "cottage-inn-pizza-dexter-5",
+    "name": "Cottage Inn Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_FzOr0LAfS1qmsezUHBSkQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cottage-inn-pizza-dexter-5?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 39,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      },
+      {
+        "alias": "chicken_wings",
+        "title": "Chicken Wings"
+      }
+    ],
+    "rating": 2.0,
+    "coordinates": {
+      "latitude": 42.338996444420594,
+      "longitude": -83.88874436090464
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "3219 Broad St",
+      "address2": "Ste 1",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3219 Broad St",
+        "Ste 1",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344265110",
+    "display_phone": "(734) 426-5110",
+    "distance": 860.3855994092125
+  },
+  {
+    "id": "RcGPAvWouZYPiCM99D2h-g",
+    "alias": "la-marsa-dexter-dexter",
+    "name": "La Marsa Dexter",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/la-marsa-dexter-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      },
+      {
+        "alias": "soup",
+        "title": "Soup"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 42.325608,
+      "longitude": -83.871831
+    },
+    "transactions": [],
+    "location": {
+      "address1": "7049 Dexter Ann Arbor Rd Dexter Mi 48130",
+      "address2": null,
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "7049 Dexter Ann Arbor Rd Dexter Mi 48130",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17345802342",
+    "display_phone": "(734) 580-2342",
+    "distance": 2733.6643861934813
+  },
+  {
+    "id": "j1vFwYaNNxZFJiK1UE4sZA",
+    "alias": "country-pride-dexter",
+    "name": "Country Pride",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4favz8E22v7LbAqnFwPQXw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/country-pride-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "soup",
+        "title": "Soup"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.2963393180901,
+      "longitude": -83.8763863965869
+    },
+    "transactions": [],
+    "location": {
+      "address1": "200 Baker Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "200 Baker Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344263951",
+    "display_phone": "(734) 426-3951",
+    "distance": 5155.78957818113
+  },
+  {
+    "id": "qrBUphkt7BZFo1Ech-ZwcA",
+    "alias": "scio-food-and-party-store-ann-arbor",
+    "name": "Scio Food & Party Store",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mpl3M2IkuAbPFO88Ra-lhQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/scio-food-and-party-store-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "beer_and_wine",
+        "title": "Beer, Wine & Spirits"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.293,
+      "longitude": -83.86681
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$$$",
+    "location": {
+      "address1": "6950 Jackson Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "6950 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17346621925",
+    "display_phone": "(734) 662-1925",
+    "distance": 5824.921525781569
+  },
+  {
+    "id": "RYQXu4iJITDS1oPkFbjlrQ",
+    "alias": "dozer-coffee-ann-arbor",
+    "name": "DOZER Coffee",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zkiMGYzEB1o1blfhLt_8pA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dozer-coffee-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 41,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.28319748991759,
+      "longitude": -83.80263384049164
+    },
+    "transactions": [],
+    "location": {
+      "address1": "112 Jackson Plz",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "112 Jackson Plz",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349295217",
+    "display_phone": "(734) 929-5217",
+    "distance": 10113.08302980575
+  },
+  {
+    "id": "5Brrbhd_ZzgZD_0ehSwQqA",
+    "alias": "dky-sushi-ann-arbor",
+    "name": "DKY Sushi",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FMT2pO9_ZLDPT36UzYfQZA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dky-sushi-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 63,
+    "categories": [
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      },
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.282169342041,
+      "longitude": -83.8375091552734
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "283 S Zeeb Rd",
+      "address2": "Ste H",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "283 S Zeeb Rd",
+        "Ste H",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349979197",
+    "display_phone": "(734) 997-9197",
+    "distance": 8141.24482234157
+  },
+  {
+    "id": "72zAtatyT-lic3hjYuMBfQ",
+    "alias": "kuka-bar-dexter",
+    "name": "Kuka bar",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kuka-bar-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "afghani",
+        "title": "Afghan"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 42.3213662,
+      "longitude": -83.8887928
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2103 Weber Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2103 Weber Dr",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17347411214",
+    "display_phone": "(734) 741-1214",
+    "distance": 2234.158565604251
+  },
+  {
+    "id": "d7tkOq9joGlgm8T9qn5w4g",
+    "alias": "china-king-ann-arbor",
+    "name": "China King",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vW-4QAb6_LdyvxZnl1vRlQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/china-king-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 59,
+    "categories": [
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.2842864990234,
+      "longitude": -83.8063049316406
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "3901 Jackson Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3901 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17342220033",
+    "display_phone": "(734) 222-0033",
+    "distance": 9801.471067408984
+  },
+  {
+    "id": "ILq88bSKL4pmPm7tsga7tQ",
+    "alias": "popeyes-louisiana-kitchen-dexter",
+    "name": "Popeyes Louisiana Kitchen",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mO-WHRMgU8yfE7gVw2_guA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/popeyes-louisiana-kitchen-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 58,
+    "categories": [
+      {
+        "alias": "chicken_wings",
+        "title": "Chicken Wings"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 2.0,
+    "coordinates": {
+      "latitude": 42.296109,
+      "longitude": -83.876539
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "200 Baker Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "200 Baker Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344263951",
+    "display_phone": "(734) 426-3951",
+    "distance": 5175.128480373836
+  },
+  {
+    "id": "bcn_kLS971v-tF2pEwrmbA",
+    "alias": "selma-cafe-ann-arbor-5",
+    "name": "Selma Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_JT6gim4VBQX52bnvGAkHg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/selma-cafe-ann-arbor-5?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.281491,
+      "longitude": -83.81885
+    },
+    "transactions": [],
+    "location": {
+      "address1": "424 Little Lake Dr",
+      "address2": "",
+      "address3": "Sunward Cohousing",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "424 Little Lake Dr",
+        "Sunward Cohousing",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17344171144",
+    "display_phone": "(734) 417-1144",
+    "distance": 9235.458971107737
+  },
+  {
+    "id": "WQ8MGxzFeUGczBRgrg7dCw",
+    "alias": "mancinos-pizza-and-grinders-ann-arbor",
+    "name": "Mancino's Pizza & Grinders",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7IuyYwu6d6o77Tit2v8Lzg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mancinos-pizza-and-grinders-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 29,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 2.5,
+    "coordinates": {
+      "latitude": 42.2809562683105,
+      "longitude": -83.8377532958984
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "355 S Zeeb Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "355 S Zeeb Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349949151",
+    "display_phone": "(734) 994-9151",
+    "distance": 8242.809008406684
+  },
+  {
+    "id": "BgJyWJAzHSaVgRE3lrvTpA",
+    "alias": "qdoba-mexican-eats-ann-arbor-4",
+    "name": "QDOBA Mexican Eats",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p8xpY9ddDCP6_oOTP8bIog/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/qdoba-mexican-eats-ann-arbor-4?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "mexican",
+        "title": "Mexican"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 2.0,
+    "coordinates": {
+      "latitude": 42.28647,
+      "longitude": -83.8393216075099
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "80 S Zeeb Rd",
+      "address2": "Ste 104",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "80 S Zeeb Rd",
+        "Ste 104",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17345851300",
+    "display_phone": "(734) 585-1300",
+    "distance": 7684.0613377119835
+  },
+  {
+    "id": "ImAvwIsZnMPxdDlYqYSN7Q",
+    "alias": "leo-s-coney-island-scio-township",
+    "name": "Leo’s Coney Island",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0Z_bqoMIpaAKPtdSO5mmew/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/leo-s-coney-island-scio-township?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 20,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American (Traditional)"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.2845701,
+      "longitude": -83.8386636
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "160 S Zeeb Rd",
+      "address2": "Ste  A",
+      "address3": null,
+      "city": "Scio Township",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "160 S Zeeb Rd",
+        "Ste  A",
+        "Scio Township, MI 48103"
+      ]
+    },
+    "phone": "+17347498510",
+    "display_phone": "(734) 749-8510",
+    "distance": 7847.9150183650345
+  },
+  {
+    "id": "NvQ9D0WPtn0PRLFtwcBOpw",
+    "alias": "dairy-queen-store-dexter",
+    "name": "Dairy Queen Store",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tGRr-vfPJurQV7mAa4_ong/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dairy-queen-store-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 13,
+    "categories": [
+      {
+        "alias": "icecream",
+        "title": "Ice Cream & Frozen Yogurt"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 42.3376262396013,
+      "longitude": -83.8880395
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "8041 Main St",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8041 Main St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344268647",
+    "display_phone": "(734) 426-8647",
+    "distance": 940.4658122216092
+  },
+  {
+    "id": "lAOJvb6D-f9r7iRgkRNX3g",
+    "alias": "uptown-coney-island-ann-arbor",
+    "name": "Uptown Coney Island",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4biqrlBSouIO2Y023r9u7A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/uptown-coney-island-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 87,
+    "categories": [
+      {
+        "alias": "diners",
+        "title": "Diners"
+      },
+      {
+        "alias": "hotdog",
+        "title": "Hot Dogs"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.284516,
+      "longitude": -83.806826
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "3917 Jackson Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3917 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17346655909",
+    "display_phone": "(734) 665-5909",
+    "distance": 9752.081961865104
+  },
+  {
+    "id": "ixdUg7S4y4xGXBprfc8c8g",
+    "alias": "jets-pizza-dexter",
+    "name": "Jet's Pizza",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EbWd95TzgYTYtyXCN3T0KA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jets-pizza-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.32505516822317,
+      "longitude": -83.87103081843941
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "7011 Dexter-Ann Arbor Rd",
+      "address2": null,
+      "address3": null,
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "7011 Dexter-Ann Arbor Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344249810",
+    "display_phone": "(734) 424-9810",
+    "distance": 2819.2905042201596
+  },
+  {
+    "id": "Rfg2YiaPCjem4aY4vyaDZQ",
+    "alias": "culvers-ann-arbor",
+    "name": "Culver's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I64iFIwtfvMnnhsj4WGtEQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/culvers-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 53,
+    "categories": [
+      {
+        "alias": "icecream",
+        "title": "Ice Cream & Frozen Yogurt"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 42.2903480529785,
+      "longitude": -83.8466110229492
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "5910 Jackson Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "5910 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17347411111",
+    "display_phone": "(734) 741-1111",
+    "distance": 6971.318442722305
+  },
+  {
+    "id": "ulwjNrENTPOBUoE3eg4WPQ",
+    "alias": "subway-dexter-9",
+    "name": "Subway",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V5HGzXzlWbJGJj3k7XUJsA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-dexter-9?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 42.33832135037992,
+      "longitude": -83.88977375392636
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$",
+    "location": {
+      "address1": "8135 Main St",
+      "address2": null,
+      "address3": null,
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "8135 Main St",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344264957",
+    "display_phone": "(734) 426-4957",
+    "distance": 785.3515170772193
+  },
+  {
+    "id": "KUSiy8ll6MffOlnbOf8qNQ",
+    "alias": "panda-express-ann-arbor-11",
+    "name": "Panda Express",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x6eDaNMjuONpVz6XMulc3Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/panda-express-ann-arbor-11?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 15,
+    "categories": [
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 2.0,
+    "coordinates": {
+      "latitude": 42.28734635813357,
+      "longitude": -83.83995027657659
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "80 S. Zeeb Rd. Building 3 Suite 101",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "80 S. Zeeb Rd. Building 3 Suite 101",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349269977",
+    "display_phone": "(734) 926-9977",
+    "distance": 7576.132826666126
+  },
+  {
+    "id": "U0vfKXqbVLZaLqLb6xedXA",
+    "alias": "noble-romans-pizza-express-dexter",
+    "name": "Noble Romans Pizza Express",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/noble-romans-pizza-express-dexter?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "convenience",
+        "title": "Convenience Stores"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "carwash",
+        "title": "Car Wash"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 42.3330154418945,
+      "longitude": -83.8869171142578
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2940 Baker Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "2940 Baker Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344264075",
+    "display_phone": "(734) 426-4075",
+    "distance": 1241.4545735903157
+  },
+  {
+    "id": "_0JiZJOu9MCTSWEroIBWkA",
+    "alias": "tropical-smoothie-cafe-ann-arbor-8",
+    "name": "Tropical Smoothie Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/03-EBehmCPDh44ozuCCfbw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tropical-smoothie-cafe-ann-arbor-8?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "wraps",
+        "title": "Wraps"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.28736726842791,
+      "longitude": -83.840165157568
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "location": {
+      "address1": "5609 Jackson Rd",
+      "address2": "Ste 107",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "5609 Jackson Rd",
+        "Ste 107",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349295330",
+    "display_phone": "(734) 929-5330",
+    "distance": 7563.001559048075
+  },
+  {
+    "id": "j1jkxHIfwMMhIywzACuBUw",
+    "alias": "subway-dexter-8",
+    "name": "Subway",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/45aeQXYHjStLjPdd0_FzjQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-dexter-8?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 42.3017779,
+      "longitude": -83.8773144
+    },
+    "transactions": [],
+    "location": {
+      "address1": "750 Baker Rd",
+      "address2": null,
+      "address3": null,
+      "city": "Dexter",
+      "zip_code": "48130",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "750 Baker Rd",
+        "Dexter, MI 48130"
+      ]
+    },
+    "phone": "+17344267881",
+    "display_phone": "(734) 426-7881",
+    "distance": 4567.0915794707935
+  },
+  {
+    "id": "Fh3DHREj1tyzKQIiXdg9SA",
+    "alias": "kasoa-african-market-ann-arbor-5",
+    "name": "Kasoa African Market",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8GVxmLjR_B6oydxJJRobbA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kasoa-african-market-ann-arbor-5?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "gourmet",
+        "title": "Specialty Food"
+      },
+      {
+        "alias": "intlgrocery",
+        "title": "International Grocery"
+      },
+      {
+        "alias": "african",
+        "title": "African"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 42.284233,
+      "longitude": -83.80679
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3925 Jackson Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "3925 Jackson Rd",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17343236888",
+    "display_phone": "(734) 323-6888",
+    "distance": 9775.691756915345
+  },
+  {
+    "id": "uASgiW9DwZMjK-V2l-Q1xA",
+    "alias": "panera-bread-ann-arbor",
+    "name": "Panera Bread",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9LQsW6OFV3mj_iF48o3KTg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/panera-bread-ann-arbor?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 73,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      },
+      {
+        "alias": "soup",
+        "title": "Soup"
+      }
+    ],
+    "rating": 2.5,
+    "coordinates": {
+      "latitude": 42.288629,
+      "longitude": -83.834828
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "5340 Jackson Road",
+      "address2": "",
+      "address3": "",
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "5340 Jackson Road",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17342224944",
+    "display_phone": "(734) 222-4944",
+    "distance": 7748.721714703968
+  },
+  {
+    "id": "p_TahR4oj9NWqNi0Dgk7Xg",
+    "alias": "tropical-smoothie-cafe-ann-arbor-7",
+    "name": "Tropical Smoothie Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6u2k4yoGUjRFDr_a6RfgcQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tropical-smoothie-cafe-ann-arbor-7?adjust_creative=N0iqFuGe5hug4KyNCfQcCw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=N0iqFuGe5hug4KyNCfQcCw",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 42.287366903494956,
+      "longitude": -83.84016598759236
+    },
+    "transactions": [],
+    "location": {
+      "address1": "5609 Jackson Rd",
+      "address2": "Ste 107",
+      "address3": null,
+      "city": "Ann Arbor",
+      "zip_code": "48103",
+      "country": "US",
+      "state": "MI",
+      "display_address": [
+        "5609 Jackson Rd",
+        "Ste 107",
+        "Ann Arbor, MI 48103"
+      ]
+    },
+    "phone": "+17349295330",
+    "display_phone": "(734) 929-5330",
+    "distance": 7562.988895771016
+  }
+]
